@@ -5,3 +5,7 @@
 - 📫 How to reach me: 
   - email: xaikodev@gmail.com 
   - website: xaikodev.com
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xaikodev)](https://github.com/anuraghazra/github-readme-stats)
+
